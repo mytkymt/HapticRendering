@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: プロパティ "IntermediateOutputPath" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)" で既に使用されています。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: プロパティ "CleanFile" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)" で既に使用されています。
+cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  pugixml.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\pugixml.cpp(17,10): fatal error C1083: include ファイルを開けません。'pugixml.hpp':No such file or directory
+  main.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\main.cpp(27,10): fatal error C1083: include ファイルを開けません。'shared.h':No such file or directory
+  helper.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\helper.cpp(24,10): fatal error C1083: include ファイルを開けません。'HDU/hduMatrix.h':No such file or directory
+  ContactModel.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\ContactModel.cpp(20,10): fatal error C1083: include ファイルを開けません。'Constants.h':No such file or directory
+  AccSynthHashMatrix.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\AccSynthHashMatrix.cpp(14,10): fatal error C1083: include ファイルを開けません。'AccSynthHashMatrix.h':No such file or directory
+  コードを生成中...
