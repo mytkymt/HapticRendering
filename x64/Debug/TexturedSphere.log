@@ -1,0 +1,11 @@
+﻿  AccSynthHashMatrix.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\AccSynthHashMatrix.cpp(14,10): fatal error C1083: include ファイルを開けません。'AccSynthHashMatrix.h':No such file or directory
+  ContactModel.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\ContactModel.cpp(20,10): fatal error C1083: include ファイルを開けません。'Constants.h':No such file or directory
+  helper.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\helper.cpp(24,10): fatal error C1083: include ファイルを開けません。'HDU/hduMatrix.h':No such file or directory
+  main.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\main.cpp(27,10): fatal error C1083: include ファイルを開けません。'shared.h':No such file or directory
+  pugixml.cpp
+C:\Users\ymtmy\Downloads\RenderingCode_Windows\src\pugixml.cpp(17,10): fatal error C1083: include ファイルを開けません。'pugixml.hpp':No such file or directory
+  コードを生成中...
